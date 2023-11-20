@@ -31,6 +31,7 @@ A Magyar-Angol mód ugyanígy működik, csak először a magyar szavakat mutatj
 és ezek angol fordítását kell kitalálni.
 
 Bármikor importálhatunk egy másik fájlt, utána a gyakorlás már az új fájlból veszi a szavakat.
+Csak figyelni kell a fájl megfelelő formátumára
 
 A Kilépés menüpont bezárja az alkalmazást.
 
