@@ -30,5 +30,7 @@ Amennyiben végeztünk az összes kártyával, erről egy felugró ablak tájék
 A Magyar-Angol mód ugyanígy működik, csak először a magyar szavakat mutatja,
 és ezek angol fordítását kell kitalálni.
 
+Bármikor importálhatunk egy másik fájlt, utána a gyakorlás már az új fájlból veszi a szavakat.
+
 A Kilépés menüpont bezárja az alkalmazást.
 
